@@ -29,4 +29,4 @@ Power BI Desktop, Power Query, DAX
 ![Filtered View](screenshots/filtered.png)
 
 ## 🔗 Author
-Huzef Khan — [GitHub](https://github.com/Huzefkhan1) | [LinkedIn](https://linkedin.com/in/huzef-khan)
+Huzef Khan — [Portfolio](https://huzefkhan1.github.io) | [GitHub](https://github.com/Huzefkhan1) | [LinkedIn](https://www.linkedin.com/in/huzef-khan-b1278433b)
